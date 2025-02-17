@@ -7,7 +7,7 @@ body {
     flex-direction: column;
     padding-bottom: 10px; 
     text-shadow: 2px 2px 10px rgba(255, 255, 255, 0.8), 
-                 0px 0px 5px rgba(253, 159, 35, 0.9);
+                 0px 0px 5px rgba(32, 48, 223, 0.702);
                
     -webkit-touch-callout: none; /* Para dispositivos móveis */
       
@@ -109,7 +109,7 @@ body {
 
 
 .link {
-    background-color: #2030dfb3;
+    background-color: rgba(32, 48, 223, 0.702);
     padding: 15px 20px;
     border-radius: 50px;
     text-decoration: none;
@@ -138,12 +138,12 @@ body {
 
 .link:hover {
     transform: scale(1.05);
-    box-shadow: 0px 6px 15px rgba(255, 145, 0, 0.7);
+    box-shadow: 0px 6px 15px rgba(32, 48, 223, 0.702);
 }
 
 .link {
     text-shadow: 2px 2px 10px rgba(56, 21, 255, 0.8), 
-                 0px 0px 5px rgba(255, 145, 0, 0.9);
+                 0px 0px 5px rgba(32, 48, 223, 0.702);
 }
 .live-background{
     padding: 5px 5px;
